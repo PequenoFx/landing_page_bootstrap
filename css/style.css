@@ -1,0 +1,129 @@
+
+section.bg-top{
+    width: 100%;
+    min-height: 500px;
+    background-image: url(../img/1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.overlay{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+    background-color: rgba(43, 43, 43, 0.445);
+    z-index: 1;
+}
+
+.fix-box{
+    position: relative;
+    top: 60px;
+}
+
+.fiz-zindex{
+    position: relative;
+    z-index: 2;
+}
+
+.texto-bg{
+    display: inline-block;
+    color: white;
+    padding-top: 130px;
+}
+
+.bg-seta{
+    color: #ffffff;
+    padding: 8px 0;
+    background-color: rgba(65, 22, 105, 0.815);
+}
+
+.bg-seta h2{
+    cursor: pointer;
+    font-size: 60px;
+}
+
+h2.custom-line .line{
+    position: relative;
+    top: -30px;
+    left: 0;
+    height: 5px;
+    width: 60px;
+    background-color: indigo;
+    transition: 1s;
+}
+
+h2.custom-line:hover .line{
+    width: 200px;
+}
+
+section.diferenciais .custom-fo{
+    padding: 10px 0;
+}
+
+.diferenciais .custom-fo i{
+    font-size: 50px;
+    color: rgb(61, 61, 61);
+    padding-bottom: 10px;
+}
+
+.diferenciais .custom-fo2{
+    border-top: 2px dotted black;
+}
+
+.diferenciais .custom-fo2 h2{
+    margin-top: 10px;
+    color: rgb(82, 82, 82);
+    font-size: 20px;
+}
+
+.diferenciais .custom-fo2 p{
+    font-size: 13px;
+}
+
+.box-diferenciais{
+    padding: 10px 0;
+}
+
+section.sugestao{
+    color: white;
+    padding: 10px 0;
+}
+
+.sugestao span{
+    color: rgb(141, 141, 141);
+}
+
+.sugestao a{
+    color: rgb(141, 141, 141);
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.sugestao a:hover{
+    color: indigo;
+    text-decoration: underline;  
+}
+
+.sugestao p{
+    color: black;
+    font-size: 13px;
+    margin-bottom: 30px;
+}
+
+.sugestao h4{
+    color: #7723ff;
+    font-size: 18px;
+}
+
+.sugestao i{
+    color: rgb(141, 141, 141);
+}
+
+.icons a{
+    color: gray;
+    text-decoration: none;
+}
