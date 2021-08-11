@@ -25,7 +25,7 @@ Landing page como foco principal em venda de assinatura ou planos
 ## 🎁 Considerações finais
 
 * aperfeiçoando minhas skills usando o framework bootstrap, mesclei classes do framework com minha propias classes... 
-* Aprendi muito com esse projeto, sempre buscando evolução cada dia mais 📢
+* Aprendi muito com esse projeto, sempre buscando evolução cada dia mais!! 📢
 
 
 ---
