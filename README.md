@@ -1,4 +1,4 @@
-# Landing Page como Materializer Framework
+# Landing Page como Bootstrap Framework
 
 Landing page como foco principal em venda de assinatura ou planos
 
